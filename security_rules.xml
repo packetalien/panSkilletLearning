@@ -26,7 +26,7 @@
         <member>any</member>
       </application>
       <service>
-        <member>application-default</member>
+        <member>any</member>
       </service>
       <hip-profiles>
         <member>any</member>
@@ -65,7 +65,7 @@
         <member>any</member>
       </application>
       <service>
-        <member>application-default</member>
+        <member>any</member>
       </service>
       <hip-profiles>
         <member>any</member>
