@@ -31,6 +31,7 @@ variables:
     description: Name of EDL
     default: Enter EDL Name Here
     type_hint: text
+<<<<<<< HEAD
   - name: edl_description
     description: Enter a Description
     default: Enter the Description Here
@@ -46,6 +47,15 @@ variables:
   - name: tag_color
     description: Choose Color
     default: Red
+=======
+  - name: domain
+    description: Firewall Domain
+    default: acme.com
+    type_hint: text
+  - name: choices
+    description: sample dropdown list
+    default: choices
+>>>>>>> 11ef7c5a4ad6c78995a5da4c68e71d9a439c09a8
     type_hint: dropdown
     dd_list:
       - key: Red
