@@ -5,7 +5,7 @@
               <hourly/>
             </recurring>
             <certificate-profile>None</certificate-profile>
-            <url>http://oss-setools-linux.acme.com/msft-office365-ipv5</url>
+            <url>{{ url }}</url>
           </ip>
         </type>
       </entry>
