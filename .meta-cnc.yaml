@@ -69,7 +69,7 @@ snippets:
     xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/external-list
     file: edl.xml
   - name: edl_list
-    xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/rulebase/security
+    xpath: /config/devices/entry[@name='localhost.localdomain']/vsys/entry[@name='vsys1']/rulebase/security/rules
     file: security_rules.xml
 # ---------------------------------------------------------------------
 # end of snippets section
